@@ -9,3 +9,4 @@ set_global_assignment -name VERILOG_FILE src/fpga_druaga.v
 set_global_assignment -name VERILOG_FILE src/druaga_video.v
 set_global_assignment -name VERILOG_FILE src/druaga_sprite.v
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-Druaga.sv"
+set_global_assignment -name VERILOG_FILE src/joydb15.v
